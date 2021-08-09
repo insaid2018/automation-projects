@@ -1,4 +1,4 @@
-<a href="https://github.com/insaid2018/automation-projects/tree/main/Daily%20Tasks%20Status%20Notifier"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/daily-tasks-status-notifier/images/logo.png"></a>
+<a href="https://github.com/insaid2018/automation-projects/tree/main/python-codes/daily-tasks-status-notifier"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/daily-tasks-status-notifier/images/logo.png"></a>
 
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
