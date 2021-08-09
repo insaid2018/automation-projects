@@ -1,4 +1,4 @@
-<a href="https://github.com/insaid2018/automation-projects/tree/main/Daily%20Tasks%20Status%20Notifier"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/daily-tasks-status-notifier/images/logo.png"></a>
+<a href="https://github.com/insaid2018/automation-projects/tree/main/Daily%20Tasks%20Status%20Notifier"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/daily-tasks-status-notifier/images/logo.png"></a>
 
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
@@ -38,9 +38,9 @@ This token, along with your API key, can be used to read and write for your enti
 <a name=Section12></a>
 ### 1.2 Getting of list id from Trello Board
 
-You can convert your Trello board into JSON data just by typing .json at the end of the board URL. For visual clarification click <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/daily-tasks-status-notifier/images/trellojsonbefore.PNG">here</a>.
+You can convert your Trello board into JSON data just by typing .json at the end of the board URL. For visual clarification click <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/daily-tasks-status-notifier/images/trellojsonbefore.PNG">here</a>.
 To retrieve the id of the list press CTRL + F and type the list name in the popped-up search bar.
-Just before the name of the list, you will see the id of the list. For visual clarification click <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/daily-tasks-status-notifier/images/trellojsonafter.PNG">here</a>. Save this id into your notepad as it will be used later to extract the card details.
+Just before the name of the list, you will see the id of the list. For visual clarification click <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/daily-tasks-status-notifier/images/trellojsonafter.PNG">here</a>. Save this id into your notepad as it will be used later to extract the card details.
 
 <a name=Section13></a>
 ### 1.3 URL Creation
