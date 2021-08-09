@@ -1,4 +1,4 @@
-<a href="https://github.com/insaid2018/automation-projects/tree/main/image-text-extractor"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/image-text-extractor/Images/logo.png"></a>
+<a href="https://github.com/insaid2018/automation-projects/tree/main/python-codes/image-text-extractor"><img src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/image-text-extractor/images/logo.png"></a>
 
 # Overview
 **Image Text Extractor** is a tool for extracting text from local and remote images.
@@ -31,7 +31,7 @@ To execute the code you must met with the following requirements:
 <a name=Section21></a>
 ### 2.1 Project & API Setup
 
-To get a service account file you need to create a new project at https://console.cloud.google.com/. Go to APIs and Services and click on <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/image-text-extractor/Images/enabling-apis.PNG">ENABLE APIS AND SERVICES</a> button. Search for <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/image-text-extractor/Images/cloud-vision-api.PNG">Cloud Vision API</a> and click on ENABLE. Next, you need to create credentials to use the API.
+To get a service account file you need to create a new project at https://console.cloud.google.com/. Go to APIs and Services and click on <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/image-text-extractor/images/enabling-apis.PNG">ENABLE APIS AND SERVICES</a> button. Search for <a href="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/image-text-extractor/images/cloud-vision-api.PNG">Cloud Vision API</a> and click on ENABLE. Next, you need to create credentials to use the API.
 
 <a name=Section22></a>
 ### 2.2 Getting of Service Account File
