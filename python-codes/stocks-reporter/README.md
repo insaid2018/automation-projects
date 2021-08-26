@@ -31,6 +31,10 @@ To execute the code, you must meet the following requirements:
 
 - Next, based on the threshold set for the change in price value it will send email notifications to the end user.
 
+
+**Note:** This is a simulation of how one can use stock market APIs which in realtime are very costly.
+
+
 <a name=Section3></a>
 # 3. Automation
 
