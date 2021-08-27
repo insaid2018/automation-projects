@@ -1,7 +1,7 @@
 <a href="https://github.com/insaid2018/automation-projects/tree/main/python-codes/whatsapp-bot"><img width=15% src="https://raw.githubusercontent.com/insaid2018/automation-projects/main/python-codes/whatsapp-bot/images/logo.png"></a>
 
 # Overview
-**WhatsApp Bot** is a bot to interact with the verified twilio users on WhatsApp.
+**WhatsApp Bot** is a bot that interacts with verified Twilio users on WhatsApp.
 
 # Table of Contents
 1. [Requirements](#Section1)<br>
