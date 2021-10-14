@@ -2,7 +2,7 @@
 
 
 # Overview
-**Shopclues Scraper** is a tool for scrapping hosted product data over Snapdeal using Selenium and Beautifulsoup.
+**Shopclues Scraper** is a tool for scrapping hosted product data over Shopclues using Selenium and Beautifulsoup.
 
 # Table of Contents
 1. [Requirements](#Section1)<br>
