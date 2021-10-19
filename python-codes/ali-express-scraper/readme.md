@@ -2,7 +2,7 @@
 
 
 # Overview
-**Amazon Scraper** is a tool for scrapping ebay's product data using Selinium and Beautifulsoup.
+**Amazon Scraper** is a tool for scrapping ali express's product data using Selinium and Beautifulsoup.
 
 # Table of Contents
 1. [Requirements](#Section1)<br>
