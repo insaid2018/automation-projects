@@ -2,7 +2,7 @@
 
 
 # Overview
-**Amazon Scraper** is a tool for scrapping amazon's product data using Selinium and Beautifulsoup.
+**Amazon Scraper** is a tool for scrapping yahoo finance data of the last 30 days from current date using Selinium and Beautifulsoup.
 
 # Table of Contents
 1. [Requirements](#Section1)<br>
